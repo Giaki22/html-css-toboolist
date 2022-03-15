@@ -19,3 +19,22 @@ header{
     height: 70px;
     padding: 10px;
 }
+.webapp{
+    width: 800px;
+    margin: 40px auto;
+    background-color: white;
+}
+.add{
+    color: white;
+    background-color: #47adf1;
+    border: solid #47adf1;
+    border-radius: 7px;
+    padding: 7px;
+}
+.add2{
+    color: #c8ced3;
+    background-color: white;
+    border: solid #c8ced3;
+    border-radius: 7px;
+    padding: 7px;
+}
